@@ -28,7 +28,5 @@ The project aims to detect anomalies in chest X-rays and MRI scans by combining 
 - **Visualization**: Matplotlib, Seaborn
 - **Dataset**: Public medical imaging datasets (e.g., ChestX-ray14, BraTS) *(to be linked or described)*
 
----
 
-## 📂 Project Structure
 
