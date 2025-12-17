@@ -8,7 +8,7 @@ This repository contains the implementation of a research project titled:
 **"Self-Supervised Vision Transformer with Diffusion-Guided Contrastive Learning for Anomaly Detection in Medical Imaging."**
 
 The project aims to detect anomalies in chest X-rays and MRI scans by combining self-supervised learning with diffusion models and contrastive learning, enabling robust representation learning without requiring large amounts of labeled data.
-
+ 
 ---
 
 ## 🧠 Project Objective
